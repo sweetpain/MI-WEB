@@ -1,4 +1,21 @@
-body{
-	color: red;
-	background-color:blue;
+p{
+	background-color:#00C0FF ;
+	color:white;
+}
+h1{
+	background-color: gray;
+	color:orange;
+	text-align: center;
+}
+.pa1{
+	background-color:#FFFFFF;
+	color:green;
+}
+.pa2{
+	background-color:#FFFFFF;
+	color:red;
+}
+.pa3{
+	background-color:#FFFFFF;
+	color:blue;
 }
